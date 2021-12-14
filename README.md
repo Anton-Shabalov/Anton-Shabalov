@@ -1,16 +1,15 @@
 ### Hi there 👋
 
-<!--
-**Anton-Shabalov/Anton-Shabalov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+My name is Anton, I am a 2nd year student of ITMO University in the field of software engineering. I am actively learning Java
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I’m currently learning Spring Framework 
+- I have been writing in Java for the second year
+- I’m currently working on University Labs
+- I work a little with the front Html/css/js/ts
+- I can write a little php
+- I will be happy to take part in various it competitions and Hackathons
+
+[![Years Badge](https://badges.pufler.dev/years/Anton-Shabalov)](https://badges.pufler.dev)
+[![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=Anton-Shabalov)](https://github.com/Anton-Shabalov)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anton-Shabalov&layout=compact)](https://github.com/Anton-Shabalov)
