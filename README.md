@@ -10,6 +10,5 @@ My name is Anton, I am a 2nd year student of ITMO University in the field of sof
 - I can write a little php
 - I will be happy to take part in various it competitions and Hackathons
 
-[![Years Badge](https://badges.pufler.dev/years/Anton-Shabalov)](https://badges.pufler.dev)
 [![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=Anton-Shabalov)](https://github.com/Anton-Shabalov)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anton-Shabalov&layout=compact)](https://github.com/Anton-Shabalov)
