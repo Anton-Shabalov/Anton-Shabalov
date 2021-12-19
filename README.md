@@ -12,3 +12,7 @@ My name is Anton, I am a 2nd year student of ITMO University in the field of sof
 
 [![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=Anton-Shabalov)](https://github.com/Anton-Shabalov)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anton-Shabalov&layout=compact)](https://github.com/Anton-Shabalov)
+
+
+Vk-https://vk.com/anton.shabalov
+Telegtam-@toshashab
