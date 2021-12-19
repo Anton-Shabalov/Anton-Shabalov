@@ -9,10 +9,8 @@ My name is Anton, I am a 2nd year student of ITMO University in the field of sof
 - I work a little with the front Html/css/js/ts
 - I can write a little php
 - I will be happy to take part in various it competitions and Hackathons
+- Ask me about anything in [vk](https://vk.com/anton.shabalov) or [telegram](https://t.me/toshashab) 
 
 [![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=Anton-Shabalov)](https://github.com/Anton-Shabalov)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anton-Shabalov&layout=compact)](https://github.com/Anton-Shabalov)
 
-
-Vk-https://vk.com/anton.shabalov
-Telegtam-@toshashab
